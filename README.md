@@ -15,3 +15,5 @@ Some excellent academic papers
 ## Image Matching across Wide Baselines: From Paper to Practice
 
 ## Terrain Aided Planetary UAV Localization Based on Geo-referencing
+
+## On the Relationship between Self-Attention and Convolutional Layers
